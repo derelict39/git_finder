@@ -1,7 +1,8 @@
 # git_finder
+This application provides a user-friendly way to retrieve and open repositories of a GitHub user using their username.
+
 ![GUI](img/GUI.png)
 
-This application provides a user-friendly way to retrieve and open repositories of a GitHub user using their username.
 
 Here's how it works:
 1. The application has a graphical user interface (GUI) built using the tkinter module in Python.
