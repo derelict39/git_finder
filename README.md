@@ -1,4 +1,5 @@
 # git_finder
+!img/GUI.png
 This application provides a user-friendly way to retrieve and open repositories of a GitHub user using their username.
 
 Here's how it works:
